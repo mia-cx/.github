@@ -2,14 +2,7 @@
 
 ## Supported Versions
 
-Versions do not apply to this repository, but this section is included as a template for other repositories in this organization.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+Supported Versions does not apply to this repository (yet).
 
 ## Reporting a Vulnerability
 
