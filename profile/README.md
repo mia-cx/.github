@@ -15,9 +15,9 @@ lorem ipsum dolor sit amet.
 
 [mia.cx](https://mia.cx) is constantly working on interesting, creative projects. You can find an extensive list [here](./PROJECTS.md).
 
-- [Tissues](https://github.com/mia-cx/tissues) - Coming Soon
-- [nuphory.com](https://nuphory.com)
-- [hypertrance.eu](https://hypertrance.eu)
-- [dancex.nl](https://github.com/dance-xperience/dancex) - Coming Soon
+- [Tissues](./PROJECTS.md#tissues) - Coming Soon
+- [nuphory.com](./PROJECTS.md#nuphorycom)
+- [hypertrance.eu](./PROJECTS.md#hypertranceeu)
+- [dancex.nl](./PROJECTS.md#dance-xperience) - Coming Soon
 
 [More Projects...](./PROJECTS.md)
