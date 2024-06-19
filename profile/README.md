@@ -20,4 +20,4 @@ lorem ipsum dolor sit amet.
 - [hypertrance.eu](./profile/PROJECTS.md#hypertranceeu)
 - [dancex.nl](./profile/PROJECTS.md#dance-xperience) - Coming Soon
 
-[More Projects...](./profile/PROJECTS.md)
+[More Projects...](./PROJECTS.md)
